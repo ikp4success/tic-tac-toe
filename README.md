@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-## how to run ?
+## How to run ?
 ```
 python3 tic-tac-toe.py
 ```
